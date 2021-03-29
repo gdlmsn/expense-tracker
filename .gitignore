@@ -1,1 +1,3 @@
 node_modules
+client/src/components/IncomeExpenses.js
+config/config.env
